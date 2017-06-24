@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_common"
+            android:icon="@drawable/common_salary"
+            android:title="@string/nav_common"></item>
+        <item
+            android:id="@+id/nav_performance"
+            android:icon="@drawable/preformance_salary"
+            android:title="@string/nav_performance"></item>
+        <item
+            android:id="@+id/nav_spring"
+            android:icon="@drawable/spring_salary"
+            android:title="@string/nav_spring"></item>
+        <item
+            android:id="@+id/nav_summer"
+            android:icon="@drawable/summer_salary"
+            android:title="@string/nav_summer"></item>
+
+
+    </group>
+</menu>

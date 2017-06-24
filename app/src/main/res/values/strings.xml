@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">salary</string>
+    <string name="nav_common">常规工资</string>
+    <string name="nav_performance">绩效工资</string>
+    <string name="nav_spring">春秋季末工资</string>
+    <string name="nav_summer">寒暑季末工资</string>
+
+    <string name="base_salary">基本工资</string>
+    <string name="bit_late">小迟到</string>
+    <string name="late">大迟到</string>
+    <string name="workday">工作日</string>
+    <string name="absence">缺勤</string>
+    <string name="social_security">社保</string>
+
+    <string name="salary_performance">单位绩效</string>
+    <string name="total_people">总人数</string>
+    <string name="actual_people">实际人数</string>
+
+
+</resources>
